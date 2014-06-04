@@ -2,6 +2,7 @@ name:"My Cool Jekyll Website"
 description:"my description"
 
 url:"http://marleexoxo.github.io/testjekyllsite"
+baseurl:"/testjekyllsite"
 paginate:10
 
 markdown:rdiscount
