@@ -4,7 +4,7 @@ description:"my description"
 url:"http://marleexoxo.github.io/testjekyllsite"
 paginate:10
 
-markdown: rdiscount
-permalink: pretty
-pygments: true
+markdown:rdiscount
+permalink:pretty
+pygments:true
 
